@@ -1,3 +1,2 @@
 # YOLOv3_traffic_sign_detector
-This is a group project created for DATA 2040 Final Project. Our group name is Code Brew, and we will improve the YOLOv3 on detecting traffic sign images. 
-For more details, please visit our website at https://bit.ly/code-brew.
+This is a group project created for DATA 2040 Final Project. Our group name is Code Brew with team members Jiamin Tang, Qinyun Wu, Shiqi Lei, Tongxin Wang and Yiwei Sang. We will dive deep into the application of YOLOv3 in training our custom detector on traffic signs and applying it in real-time videos. For more details, please visit our website at https://bit.ly/code-brew.
